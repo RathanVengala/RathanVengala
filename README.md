@@ -2,7 +2,7 @@
 
 # Hi, I'm Rathan 👋
 
-### Associate Staff Engineer @ Nagarro · Backend Architect · AI/LLM Engineering
+### Associate Staff Engineer @ Nagarro • Backend Architect • AI/LLM Engineering
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=600&lines=5%2B+Years+of+Backend+Engineering;Java+%7C+Spring+Boot+%7C+AWS;Event-Driven+Systems+%26+Microservices;Exploring+RAG%2C+LangGraph+%26+AI+Agents)](https://git.io/typing-svg)
 
@@ -29,15 +29,15 @@
 
 ## 🚀 About Me
 
-I'm an **Associate Staff Engineer** at **Nagarro** with **5+ years of experience** designing and building scalable, event-driven backend systems using **Java**, **Spring Boot**, and **AWS**.
+I’m an **Associate Staff Engineer** at **Nagarro** with **5+ years of experience** building scalable, event-driven backend systems using **Java**, **Spring Boot**, and **AWS**.
 
-My expertise includes **backend architecture**, **high-traffic services**, **event-driven systems**, and **CI/CD automation**. I'm also expanding my skills in **AI/LLM Engineering**, exploring **RAG pipelines, vector databases, embeddings, LangGraph, and agentic workflows** to build intelligent, production-ready applications.
+I specialize in **backend architecture**, **high-traffic services**, **distributed systems**, and **CI/CD automation**. I’m also expanding my work in **AI/LLM Engineering**, exploring **RAG pipelines, vector databases, embeddings, LangGraph, and agentic workflows** to build intelligent, production-ready applications.
 
-- 🔭 **Currently working on:** Scalable backend systems and AI-powered applications
+- 🔭 **Currently building:** Scalable backend systems and AI-powered applications
 - 💻 **Core expertise:** Java, Spring Boot, Microservices, Kafka, AWS, Redis, PostgreSQL
 - 🤖 **Exploring:** LLMs, RAG, Vector Databases, Embeddings, LangGraph, and AI Agents
-- ⚙️ **Interested in:** System Design, Distributed Systems, Cloud Architecture, and CI/CD
-- 🌱 **Currently learning:** Building reliable, scalable AI-powered backend applications
+- ⚙️ **Focused on:** System Design, Distributed Systems, Cloud Architecture, and CI/CD
+- 🌱 **Currently learning:** Reliable, scalable AI-powered backend engineering
 
 ---
 
@@ -82,12 +82,12 @@ My expertise includes **backend architecture**, **high-traffic services**, **eve
 ## 🏗️ What I Work On
 
 ```
-✅ Microservices Architecture          ✅ Event-Driven Systems (Kafka, AWS SNS/SQS/EventBridge)
-✅ High-Traffic Backend Services       ✅ AWS Cloud Architecture
-✅ CI/CD Automation                    ✅ AI/LLM — RAG, Embeddings, Vector DBs
-✅ System Design & Distributed Systems ✅ LangGraph & Agentic Workflows
-✅ Test-Driven Development (TDD)       ✅ Agile / Scrum Methodologies
-✅ Aspect-Oriented Programming         ✅ Caching with Redis
+✅ Microservices Architecture           ✅ Event-Driven Systems (Kafka, SNS, SQS, EventBridge)
+✅ High-Traffic Backend Services        ✅ AWS Cloud Architecture
+✅ CI/CD Automation                     ✅ AI/LLM — RAG, Embeddings, Vector DBs
+✅ System Design & Distributed Systems  ✅ LangGraph & Agentic Workflows
+✅ Test-Driven Development (TDD)        ✅ Agile / Scrum Methodologies
+✅ Aspect-Oriented Programming          ✅ Caching with Redis
 ```
 
 ---
@@ -146,9 +146,9 @@ An AI voice agent that answers pharmacy phone calls, handles medicine enquiries 
 ## 💼 Work Experience Timeline
 
 ```
-📌 Associate Staff Engineer │ Nagarro, Bangalore         │ 10-2025 – Present
-📌 Software Engineer        │ Tricon Infotech, Bangalore │ 08-2021 – 10-2025
-🎓 B.Tech                   │ JNTUH                      │ 2017 – 2021
+📌 Associate Staff Engineer │ Nagarro, Bangalore          │ Oct 2025 – Present
+📌 Software Engineer        │ Tricon Infotech, Bangalore │ Aug 2021 – Apr 2024
+🎓 B.Tech                  │ JNTUH                      │ 2017 – 2021
 ```
 
 ---
