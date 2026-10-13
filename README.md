@@ -146,9 +146,10 @@ An AI voice agent that answers pharmacy phone calls, handles medicine enquiries 
 ## 💼 Work Experience Timeline
 
 ```
-📌 Associate Staff Engineer │ Nagarro, Bangalore          │ Oct 2025 – Present
-📌 Software Engineer        │ Tricon Infotech, Bangalore │ Aug 2021 – Apr 2024
-🎓 B.Tech                  │ JNTUH                      │ 2017 – 2021
+📌 Associate Staff Engineer    │ Nagarro, Bangalore         │ Oct 2025 – Present
+📌 Software Engineer           │ Tricon Infotech, Bangalore │ Apr 2024 – Oct 2025
+📌 Associate Software Engineer │ Tricon Infotech, Bangalore │ Aug 2021 – Apr 2024
+🎓 B.Tech                      │ JNTUH                      │ 2017 – 2021
 ```
 
 ---
