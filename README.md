@@ -13,8 +13,8 @@
   <a href="mailto:YOUR-EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/RathanNetha" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <a href="https://rathanvengala.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Profile"/>
   </a>
   <a href="https://github.com/RathanVengala" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -180,8 +180,8 @@ Always happy to talk about **backend architecture, distributed systems, AI engin
   <img src="https://img.shields.io/badge/Gmail-Drop%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/RathanNetha" target="_blank">
-  <img src="https://img.shields.io/badge/X-Follow%20me-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+<a href="https://rathanvengala.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Profile-Visit%20my%20site-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Profile"/>
 </a>
 
 <br/><br/>
